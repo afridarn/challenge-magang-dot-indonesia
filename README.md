@@ -1,1 +1,2 @@
-# challenge-magang-dot-indonesia
+# challenge-magang-dot-indonesia  
+## You can access it here: https://dot-challenge.herokuapp.com/
